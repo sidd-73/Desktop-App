@@ -1,4 +1,5 @@
 # Slidely_Task2_AI Windows Form Application
-
-
-!! due to authentication error I was unable to push from my account.
+ Clone the Repository by coping the URL in your IDE.
+The Windows Forms App developed in Visual Basic.
+The Shortcut keys will work.
+The Delete button will not function.
