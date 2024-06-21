@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|c:\\users\\user\\source\\repos\\winformsapp3\\viewsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|solutionrelative:viewsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|c:\\users\\user\\source\\repos\\winformsapp3\\createsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|solutionrelative:createsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|c:\\users\\user\\source\\repos\\winformsapp3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|c:\\users\\user\\source\\repos\\winformsapp3\\createsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|solutionrelative:createsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|c:\\users\\user\\source\\repos\\winformsapp3\\viewsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|solutionrelative:viewsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|c:\\users\\user\\source\\repos\\winformsapp3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|c:\\users\\user\\source\\repos\\winformsapp3\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|solutionrelative:submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|c:\\users\\user\\source\\repos\\winformsapp3\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|c:\\users\\user\\source\\repos\\winformsapp3\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FBAAEC34-F57F-4EB5-BB00-35B1FF50331D}|WinFormsApp3.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\CreateSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "CreateSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\CreateSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "CreateSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:03:01.878Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\ViewSubmissionForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\ViewSubmissionForm.vb*",
+              "RelativeToolTip": "ViewSubmissionForm.vb*",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwEoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:01:54.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T10:52:38.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\CreateSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "CreateSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\CreateSubmissionsForm.vb",
+              "RelativeToolTip": "CreateSubmissionsForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:03:09.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\ViewSubmissionForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\ViewSubmissionForm.vb [Design]*",
+              "RelativeToolTip": "ViewSubmissionForm.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:01:46.07Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-18T17:54:25.634Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Submission.vb",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\Submission.vb",
+              "RelativeDocumentMoniker": "Submission.vb",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\Submission.vb",
+              "RelativeToolTip": "Submission.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:05:29.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T11:07:58.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WinFormsApp3\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-18T19:08:59.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
